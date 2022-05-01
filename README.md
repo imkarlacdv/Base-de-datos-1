@@ -1,4 +1,5 @@
 # Base-de-datos-1
-Ejercicio de la primer clase de base de Datos: Directorio de comunidades.
+1.Directorio de comunidades.Se quiere desarrollar un directorio de comunidades para eso necesitamos guardar de cada comunidad el nombre, que tipo de comunidad es (tecnológica, ciencias, social,etc), el país, estado y sus redes sociales, las comunidades en su mayoria realizan eventos o actividades de las cuales también se necesita tener registro, de cada evento que llevan a cabo será necesario guardar registro del nombre del evento o actividad, objetivo del evento, fecha y hora, medio por el cual será (zoom, presencial) y un detalle de ese medio, por último una lista de requerimientos de tal evento. Además de los eventos las comunidades necesitan saber con que personas cuentan para ello se llevará registro de las personas, es necesario el nombre, dirección, a que se dedica, medio por el cuál conoció a la comunidad (facebook, por un amigo, en la escuela,etc), y el porqué ha elegido unirse a esa comunidad.
+
 ![BaseDeDatos drawio](https://user-images.githubusercontent.com/98195594/166162209-45e04775-c014-4e15-91e8-422f70378905.png)
 
